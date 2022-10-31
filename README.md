@@ -1,6 +1,6 @@
 # Magic 8 Ball
 ## Skillcrush Class JavaScript Project. Ball shakes while loading answer.
-### View the [live project here.](https://kirstendarling.github.io/magic8-ball/)
+### View the [live project here.](https://kirstendarling.github.io/Magic-8-Ball/)
 
 ### Screenshot
 
